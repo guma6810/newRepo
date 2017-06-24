@@ -10,5 +10,4 @@ public class Main {
 	public String newFunction() {
 		return "newFunction";
 	}
-
 }
