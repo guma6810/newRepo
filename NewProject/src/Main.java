@@ -11,7 +11,4 @@ public class Main {
 		return "newFunction";
 	}
 	
-	public String newFunction1() {
-		return "newFunction1";
-	}
 }
