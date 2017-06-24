@@ -10,4 +10,8 @@ public class Main {
 	public String newFunction() {
 		return "newFunction";
 	}
+	
+	public String newFunction1() {
+		return "newFunction1";
+	}
 }
