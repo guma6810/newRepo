@@ -7,4 +7,8 @@ public class Main {
 		InputFunc ifunc = new InputFunc();
 	}
 	
+	public void newFunction() {
+		
+	}
+	
 }
