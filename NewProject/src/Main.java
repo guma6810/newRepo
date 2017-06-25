@@ -7,11 +7,4 @@ public class Main {
 		InputFunc ifunc = new InputFunc();
 	}
 	
-	public String newFunction() {
-		return "newFunction";
-	}
-	
-	public String newFunction1() {
-		return "newFunction1";
-	}
 }
